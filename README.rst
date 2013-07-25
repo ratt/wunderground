@@ -8,7 +8,7 @@ Wunderground
 Installation
 ------------
 
-#. Install or add ``jmbo-weather`` to your Python path.
+#. Install or add ``wunderground`` to your Python path.
 
 #. Add ``wunderground`` to your ``INSTALLED_APPS`` setting.
 
